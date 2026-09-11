@@ -7,7 +7,7 @@
 -- ─────────────────────────────────────────────────────────────
 -- LOAD LIBRARY
 -- ─────────────────────────────────────────────────────────────
-local UI = loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_NAME/RYEENZYXNZ_UI_V3/main/RYEENZYXNZ_UI_V3.lua"))()
+local UI = loadstring(game:HttpGet("https://raw.githubusercontent.com/acountdiscord86-art/RYEENZYXNZ/refs/heads/main/RYEENZYXNZ_UI_V3.lua"))()
 
 -- ─────────────────────────────────────────────────────────────
 -- OPTIONAL: LUCIDE MODULE
