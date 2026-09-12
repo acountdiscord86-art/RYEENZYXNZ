@@ -9,7 +9,7 @@
 -- LOAD
 -- ═══════════════════════════════════════════════════════
 local RUI = loadstring(game:HttpGet(
-    "https://raw.githubusercontent.com/YOUR_NAME/RYEENZYXNZ_V3/main/RYEENZYXNZ_V3.lua"
+    "https://raw.githubusercontent.com/acountdiscord86-art/RYEENZYXNZ/refs/heads/main/RYEENZYXNZ_V3.lua"
 ))()
 
 -- ═══════════════════════════════════════════════════════
