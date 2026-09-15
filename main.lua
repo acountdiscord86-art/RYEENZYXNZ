@@ -1,23 +1,3 @@
---[[
-    RYEENZYXNZ UI Library V2.0
-    Original Liquid Glass Roblox UI framework
-    Runtime-generated UI: no uploaded UI image required.
-
-    Features:
-      Window / draggable / responsive scaling / open-close floating button
-      Sidebar tabs / sections / search
-      Button / Toggle / Slider / Dropdown / MultiDropdown
-      Input / Keybind / ColorPicker / Paragraph / Label / Divider
-      Notifications / Dialog / Tooltips
-      Theme system / Lucide-style icon name support
-      Config save/load/delete using executor filesystem APIs when available
-      Mobile-friendly touch sizing
-
-    Example:
-      local RYEENZYXNZ = loadstring(game:HttpGet("YOUR_RAW_MAIN_LUA_URL"))()
-      local Window = RYEENZYXNZ:CreateWindow({Title="RYEENZYXNZ", Subtitle="Liquid Glass"})
-]]
-
 local RYEENZYXNZ = {}
 RYEENZYXNZ.__index = RYEENZYXNZ
 RYEENZYXNZ.Version = "2.0.0"
