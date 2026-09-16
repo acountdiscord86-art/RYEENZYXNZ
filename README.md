@@ -6,7 +6,6 @@ Modern Roblox UI library with a dark **Liquid Glass** aesthetic.
 
 ## Features
 
-- Liquid Glass dark interface
 - Responsive/mobile-aware layout
 - Window dragging
 - Tabs + subtabs
