@@ -5,12 +5,12 @@
 ]]
 
 local RYNZYEXZ = loadstring(game:HttpGet(
-    "https://raw.githubusercontent.com/acountdiscord86-art/RYNZYEXZ/main/main.lua"
+    "https://raw.githubusercontent.com/acountdiscord86-art/RYEENZYXNZ/refs/heads/main/main.lua"
 ))()
 
 local Window = RYNZYEXZ:CreateWindow({
     Name = "RYNZYEXZ",
-    BrandSubtitle = "Liquid Glass v" .. RYNZYEXZ.Version,
+    BrandSubtitle = "memek boreup" .. RYNZYEXZ.Version,
     Size = UDim2.fromOffset(760, 520),
     ToggleKey = Enum.KeyCode.RightControl,
     LoadingAnimation = true,
